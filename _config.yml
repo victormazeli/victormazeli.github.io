@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Victor Mazeli # your name (or website title) here
+logo: "/images/IMG_20200617_154453_972.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  i am full stack software developer, with 1year expericence building software solutions.
+  my stack are python(django), javascript(vue). i also have skills in buliding mobile applications
+  with flutter. i am available and ready to work on any solutions or projects. 
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
