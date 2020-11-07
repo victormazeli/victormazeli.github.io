@@ -20,11 +20,11 @@
 ### Mobile App development(Flutter)
 
 [Project 1 Title]
-<img src="images/app1 (67).jpg?raw=true"/>
+<img src="images/app1.jpg?raw=true"/>
 
 ---
 [Project 2 Title]
-<img src="images/Screenshot (67).jpg?raw=true"/>
+<img src="images/Screenshot (67).png?raw=true"/>
 
 ---
 
