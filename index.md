@@ -1,32 +1,32 @@
-## Portfolio
+## My works
 
 ---
 
-### Category Name 1 
+### Web development (Django & vue) 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project Zeus](https://www.figma.com/proto/i1r3X80T9yyZs2xUApySM2/Project-Zeus?node-id=431%3A0)
+<img src="images/zeus.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[First Housing]
+<img src="images/housing.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
+
+### Mobile App development(Flutter)
+
+[Project 1 Title]
+<img src="images/app1 (67).jpg?raw=true"/>
+
+---
+[Project 2 Title]
+<img src="images/Screenshot (67).jpg?raw=true"/>
+
+---
 
 
 
