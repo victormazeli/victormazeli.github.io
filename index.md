@@ -5,7 +5,7 @@
 ### Web development (Django & vue) 
 
 [Project Zeus web view](https://www.figma.com/proto/i1r3X80T9yyZs2xUApySM2/Project-Zeus?node-id=431%3A0)
-<img src="images/zeus.jpg?raw=true"/>
+<img src="images/zeus.png?raw=true"/>
 
 ---
 [First Housing]
