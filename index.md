@@ -4,11 +4,11 @@
 
 ### Web development (Laravel) 
 
-[Project Zeus web view](https://www.figma.com/proto/i1r3X80T9yyZs2xUApySM2/Project-Zeus?node-id=431%3A0)
+[Project Zeus](https://github.com/victormazeli/saas-app)
 <img src="images/zeus.png?raw=true"/>
 
 ---
-[First Housing]
+[First Housing](https://github.com/victormazeli/Estate-mgt-master)
 <img src="images/housing.jpg?raw=true"/>
 
 ---
